@@ -7,6 +7,9 @@ The goal of this project is organizing CSS selector and properties to follow pro
 3. CSS organized in relation to position in HTML with Comments
 4. Spacing was introduced in HTML in order for clarity/visibility of code. 
 5. Footer section was removed/commented out as Solved JPEG did not include Footer section. 
+6. Link reference added so all navigation links work. 
+7. Correct Form of Semantic Language introduced.
+8. CSS correctly formatted for semantic language 
 ## Links 
 
 ## Screenshots
