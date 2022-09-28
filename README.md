@@ -10,7 +10,10 @@ The goal of this project is organizing CSS selector and properties to follow pro
 6. Link reference added so all navigation links work. 
 7. Correct Form of Semantic Language introduced.
 8. CSS correctly formatted for semantic language 
+9. Deletion of Excess Code, following DRY methodology
 ## Links 
-
+1. https://github.com/naveenc7/horiseon-code-refractor 
+2. https://naveenc7.github.io/horiseon-code-refractor/#social-media-marketing 
 ## Screenshots
+![Solution Screenshot](./assets/images/Module-1-refraactor-solution.png)
 
